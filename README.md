@@ -1,5 +1,5 @@
 <div>
-<h3 align="center">### Hi! I'm Michelle! 👋</h3 align>
+<h3 align="center"> Hi! I'm Michelle! 👋</h3 align>
 </div>
 
 ---
@@ -38,5 +38,5 @@ Selected projects in geospatial analysis, spatial modelling, data science and ma
 
 ### 📫 Connect with me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/michelle-ganap-14900710b/)
+- LinkedIn: [Michelle Natasa](https://www.linkedin.com/in/michelle-ganap-14900710b/)
 - GitHub: [@chellsauce](https://github.com/chellsauce)
