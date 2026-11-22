@@ -31,6 +31,7 @@ My academic and practical experience combines geographic information systems, sp
 
 Selected projects in geospatial analysis, spatial modelling, data science and machine learning.
 
+- <a href = "https://github.com/chellsauce/GDSSA-Dissertation">Scorecard Modeling</a>
 - <a href = "https://github.com/chellsauce/Virtual-Internship-Experience">Scorecard Modeling</a>
 - <a href = "https://github.com/chellsauce/us_adult_census">Adult Income Analysis</a>
 - <a href = "https://github.com/chellsauce/real_data_extraction">Real Data Extraction</a>
